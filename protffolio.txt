@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Godawari, Kathmandu - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2e8b57;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            margin: 15px;
+            background-color: white;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #2e8b57;
+        }
+        footer {
+            text-align: center;
+            background-color: #2e8b57;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Godawari, Kathmandu</h1>
+    <p>A Beautiful Place of Nature and Peace</p>
+</header>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        Godawari is a beautiful place located in the southern part of Kathmandu Valley.
+        It is famous for its natural beauty, green environment, and peaceful atmosphere.
+    </p>
+</section>
+
+<section>
+    <h2>Location</h2>
+    <p>
+        Godawari lies in Lalitpur District, near Kathmandu. It is surrounded by hills,
+        forests, and fresh air, making it a popular destination for visitors.
+    </p>
+</section>
+
+<section>
+    <h2>Famous Places</h2>
+    <ul>
+        <li>Godawari Botanical Garden</li>
+        <li>Godawari Kunda</li>
+        <li>Phulchoki Hill</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Importance</h2>
+    <p>
+        Godawari is important for education, tourism, and research. Many students visit
+        the botanical garden to study plants and nature.
+    </p>
+</section>
+
+<footer>
+    <p>Portfolio Created using HTML</p>
+</footer>
+
+</body>
+</html>
